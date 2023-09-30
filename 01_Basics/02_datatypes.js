@@ -17,6 +17,6 @@ let qaisar = {   qaisar1 :43,
 // console.log(qaisar)
 
 // console.log(typeof(qaisar)) 
-//typeof() will print ,what type of object is variable 
+//typeof() will print ,what type of object/variable is of
 
 
