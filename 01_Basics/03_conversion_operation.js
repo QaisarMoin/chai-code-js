@@ -60,7 +60,20 @@ let str2 = " Moin"
 
 //Problem starts here 
 
-console.log("1"+2) //output => 12
-console.log(1+"2")//output => 12
-console.log("1"+2+2)//output => 122
+console.log("1"+2) //output => 12 
+console.log(1+"2")//output => 12 
+console.log("1"+2+2)//output => 122 
 console.log(1+2+"2")//output => 32
+
+
+
+
+
+
+
+
+
+
+
+
+
