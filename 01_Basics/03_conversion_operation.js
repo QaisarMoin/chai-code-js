@@ -45,12 +45,22 @@ let value = 23
 let negvalue = -value
 // console.log(negvalue)
 
-console.log(2+2)
-console.log(2-2)
-console.log(2*2)
-console.log(2/2) //division
-console.log(4%2) // remainder of 2
-console.log(2**3)  // 2 to the power 3
+// console.log(2+2)
+// console.log(2-2)
+// console.log(2*2)
+// console.log(2/2) //division
+// console.log(4%2) // remainder of 2
+// console.log(2**3)  // 2 to the power 3
 
+//Addition of String
 
+let str1 = "Qaisar"
+let str2 = " Moin"
+// console.log(str1+str2) // output => Qaisar Moin
 
+//Problem starts here 
+
+console.log("1"+2) //output => 12
+console.log(1+"2")//output => 12
+console.log("1"+2+2)//output => 122
+console.log(1+2+"2")//output => 32
