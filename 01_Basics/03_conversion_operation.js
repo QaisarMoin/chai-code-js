@@ -26,7 +26,7 @@ let isLoggedInFalse = undefined
 let booleanIsLoggedIn = Boolean(isLoggedIn)
 // console.log(booleanIsLoggedIn)
 let booleanIsLoggedInFalse = Boolean(isLoggedInFalse)
-console.log(booleanIsLoggedInFalse)
+// console.log(booleanIsLoggedInFalse)
 
 /* 
 Boolean covert anything into True and Flase 
@@ -40,4 +40,15 @@ undefined => False
 */
 
 // ********************************** Operation ********************************
+
+let value = 23
+let negvalue = -value
+// console.log(negvalue)
+
+console.log(2+2)
+console.log(2-2)
+console.log(2*2)
+console.log(2/2) //division
+console.log(4%2) // remainder of 2
+console.log(2**3)  // 2 to the power 3
 
