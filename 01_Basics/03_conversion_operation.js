@@ -1,10 +1,11 @@
 
-// conversion operation in JS 
+// *************************  conversion operation in JS ****************************
 
 let score = "33"
 // console.log("The data type of score is : " , typeof(score)) //it tells the data type of variable 
 let score_to_variable = Number(score)
 // console.log("The data type of score_to_variable is : ",typeof(score_to_variable))
+
 /*  
 
 Number() it will convert all the things into number Just ANYTHING 
@@ -37,3 +38,6 @@ Boolean covert anything into True and Flase
 null => False
 undefined => False
 */
+
+// ********************************** Operation ********************************
+
