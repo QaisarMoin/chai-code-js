@@ -51,4 +51,6 @@ console.log(2*2)
 console.log(2/2) //division
 console.log(4%2) // remainder of 2
 console.log(2**3)  // 2 to the power 3
+// hello 
+
 
