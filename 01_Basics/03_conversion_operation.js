@@ -60,12 +60,14 @@ let str2 = " Moin"
 
 //Problem starts here 
 
-console.log("1"+2) //output => 12 
-console.log(1+"2")//output => 12 
-console.log("1"+2+2)//output => 122 
-console.log(1+2+"2")//output => 32
+// console.log("1"+2) //output => 12 
+// console.log(1+"2")//output => 12 
+// console.log("1"+2+2)//output => 122 
+// console.log(1+2+"2")//output => 32
 
-
+let gameCounter = 100
+// console.log(++gameCounter) //pre increment(phle increase karo phir print karo )
+// console.log(gameCounter++) //post increment(phle print karo phir increase karo)
 
 
 
