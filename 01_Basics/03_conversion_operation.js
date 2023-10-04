@@ -23,8 +23,10 @@ undefine => NaN
 
 let isLoggedIn = 1  //It is an integer
 let isLoggedInFalse = undefined
+
 let booleanIsLoggedIn = Boolean(isLoggedIn)
 // console.log(booleanIsLoggedIn)
+
 let booleanIsLoggedInFalse = Boolean(isLoggedInFalse)
 // console.log(booleanIsLoggedInFalse)
 
